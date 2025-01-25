@@ -116,7 +116,7 @@ const App: React.FC = () => {
         </div>
 
         <div className="glitch-text" data-text="LAUNCH INITIALIZATION">
-          LAUNCH INITIALIZATION
+          LAUNCH INITIALIZED
         </div>
 
         <div className="countdown">
