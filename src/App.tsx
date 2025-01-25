@@ -115,7 +115,7 @@ const App: React.FC = () => {
           `}
         </div>
 
-        <div className="glitch-text" data-text="LAUNCH INITIALIZATION">
+        <div className="glitch-text" data-text="LAUNCH INITIALIZED">
           LAUNCH INITIALIZED
         </div>
 
